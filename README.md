@@ -1,13 +1,13 @@
 # Predicting-Humor-in-Yelp-Reviews
 
-Use NLP to detect humor in Yelp Reviews
+Using NLP to detect humor in Yelp Reviews
 
 ## Motivation ##
 
 Humor is a very human quality and skill, and it’s something we have all experienced at some point. It's also a very subjective thing, but what if there was a way to systematically detect it using data that is readily available to us? To answer this question, I sought to detect humor in the community-based context of Yelp. For this goal I worked with the Yelp Open Dataset, which contains ~8.6 million reviews of businesses on Yelp, each with a 'funny' attribute representing the number of funny votes a given review has received.
 
 
-This project will create baseline models to predict humor in Yelp Reviews using classic machine learning methods. Useful applications include helping business owners better understand user engagement with their business. It can also signal to other users about the exaggerated nature of humorous reviews, and that such reviews should be taken with a grain of salt.
+This project will create baseline models to predict humor in Yelp Reviews using Natural Language processing and classic machine learning methods. Useful applications include helping business owners better understand user engagement with their business. It can also signal to other users about the exaggerated nature of humorous reviews, and that such reviews should be taken with a grain of salt.
 
 Perhaps most interestingly, there is potential to incorporate humor in AI systems to make human-computer interactions feel more human.
 
